@@ -38,3 +38,15 @@ After committing, I will push the changes to GitHub and verify that they are vis
 Mission 0: In progress
 
 The remaining missions will be completed and documented in order.
+
+## My Learning
+
+Through this assignment, I learned:
+
+1. Basic computer concepts and operating systems.
+2. Terminal commands and file management.
+3. How to write and run Python programs.
+4. Binary, decimal and hexadecimal number systems.
+5. ASCII and UTF-8 character encoding.
+6. Git commands, commits and branches.
+7. How to upload and manage projects using GitHub.
