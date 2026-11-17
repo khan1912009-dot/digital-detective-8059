@@ -35,9 +35,9 @@ After committing, I will push the changes to GitHub and verify that they are vis
 
 ## Project Status
 
-Mission 0: In progress
+All missions (Mission 0 to Mission 8) have been completed and documented.
 
-The remaining missions will be completed and documented in order.
+The project includes terminal practice, operating systems, Python programming, number systems, Git and GitHub, and networking.
 
 ## My Learning
 
