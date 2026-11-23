@@ -124,8 +124,10 @@ I understood that processing involves working with data, while storage allows da
 
 **Commit message:** Complete computer basics and IPOS mission
 
-**Branch:** main
+**Commit ID:** 3f81dad
 
-**Push status:** To be confirmed after pushing the completed mission to GitHub.
+**Original branch:** main
 
-**Repository:** https://github.com/khan1912009-dot/digital-detective-8059.git
+**Push status:** Successfully pushed to GitHub.
+
+**Repository:** https://github.com/khan1912009-dot/digital-detective-8059
